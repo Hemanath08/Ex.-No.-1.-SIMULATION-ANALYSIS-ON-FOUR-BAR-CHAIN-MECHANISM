@@ -54,7 +54,7 @@
 
 
 ## Output:
-
+![image](https://github.com/Hemanath08/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151807176/ee6da70a-81a8-4641-b972-adb9a99505f7)
 
 ### Name: K.HEMANATH
 ### Register Number: 212223100012
